@@ -8,6 +8,6 @@ install.packages(c("mgcv", "splines","splines2","openxlsx","e1071","mda","boot",
 library("pacman") 
 p_load(mgcv, splines,splines2,openxlsx,e1071,mda,boot)
 # Usage
-Whether you use two-stage predictor substitution or control function, you need separation and see separation.R . If you plan to adopt the two-stage prediction substitution method, you can view the two-stage_prediction_substitution.R. If you use the control function method, you can view the control function.R.When using, you only need to modify the variable nameaccording to your research and data.
+Whether you use two-stage predictor substitution or control function, you need separation and see separation.R . If you plan to adopt the two-stage prediction substitution method, you can view the two-stage_prediction_substitution.R. If you use the control function method, you can view the control function.R.When using, you only need to modify the variable name according to your research and data.
 # Development
 This R code are develpoed by guimingzhu.
